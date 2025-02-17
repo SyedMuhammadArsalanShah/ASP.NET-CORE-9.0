@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lecture01MiddlewareRunVsUse/1.0.0": {
+        "runtime": {
+          "Lecture01MiddlewareRunVsUse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture01MiddlewareRunVsUse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

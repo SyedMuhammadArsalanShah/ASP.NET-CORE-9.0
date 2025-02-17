@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "IndexViewBag";
+}
+
+<h1>IndexViewBag</h1>
+
+@foreach (var course in ViewBag.Courses)
+{
+    <p>@course</p>
+}

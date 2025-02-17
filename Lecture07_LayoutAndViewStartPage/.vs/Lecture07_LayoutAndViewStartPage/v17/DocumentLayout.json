@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|d:\\asp.netcore\\lecture07_layoutandviewstartpage\\lecture07_layoutandviewstartpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|solutionrelative:lecture07_layoutandviewstartpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|d:\\asp.netcore\\lecture07_layoutandviewstartpage\\lecture07_layoutandviewstartpage\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|solutionrelative:lecture07_layoutandviewstartpage\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|d:\\asp.netcore\\lecture07_layoutandviewstartpage\\lecture07_layoutandviewstartpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|solutionrelative:lecture07_layoutandviewstartpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|d:\\asp.netcore\\lecture07_layoutandviewstartpage\\lecture07_layoutandviewstartpage\\views\\home\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|solutionrelative:lecture07_layoutandviewstartpage\\views\\home\\service.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|d:\\asp.netcore\\lecture07_layoutandviewstartpage\\lecture07_layoutandviewstartpage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|solutionrelative:lecture07_layoutandviewstartpage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|d:\\asp.netcore\\lecture07_layoutandviewstartpage\\lecture07_layoutandviewstartpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|solutionrelative:lecture07_layoutandviewstartpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|d:\\asp.netcore\\lecture07_layoutandviewstartpage\\lecture07_layoutandviewstartpage\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|solutionrelative:lecture07_layoutandviewstartpage\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|d:\\asp.netcore\\lecture07_layoutandviewstartpage\\lecture07_layoutandviewstartpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25688B7-9A18-44FB-9889-F7FAC5FC31DF}|Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage.csproj|solutionrelative:lecture07_layoutandviewstartpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture07_LayoutAndViewStartPage\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Program.cs",
+              "RelativeToolTip": "Lecture07_LayoutAndViewStartPage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:55:15.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lecture07_LayoutAndViewStartPage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lecture07_LayoutAndViewStartPage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:48:39.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Lecture07_LayoutAndViewStartPage\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Lecture07_LayoutAndViewStartPage\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:46:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lecture07_LayoutAndViewStartPage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lecture07_LayoutAndViewStartPage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:46:39.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Home\\Service.cshtml",
+              "RelativeDocumentMoniker": "Lecture07_LayoutAndViewStartPage\\Views\\Home\\Service.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Home\\Service.cshtml",
+              "RelativeToolTip": "Lecture07_LayoutAndViewStartPage\\Views\\Home\\Service.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:45:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lecture07_LayoutAndViewStartPage\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lecture07_LayoutAndViewStartPage\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:45:30.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lecture07_LayoutAndViewStartPage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lecture07_LayoutAndViewStartPage\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:44:41.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lecture07_LayoutAndViewStartPage\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture07_LayoutAndViewStartPage\\Lecture07_LayoutAndViewStartPage\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lecture07_LayoutAndViewStartPage\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:43:54.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

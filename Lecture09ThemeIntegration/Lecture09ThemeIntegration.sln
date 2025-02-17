@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture09ThemeIntegration", "Lecture09ThemeIntegration\Lecture09ThemeIntegration.csproj", "{9642C638-D0B9-4591-A288-17FEAE1F99AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9642C638-D0B9-4591-A288-17FEAE1F99AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9642C638-D0B9-4591-A288-17FEAE1F99AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9642C638-D0B9-4591-A288-17FEAE1F99AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9642C638-D0B9-4591-A288-17FEAE1F99AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41402B97-A61D-47DC-858A-A531231804A1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lecture08ViewDataVSViewBagVsTempData.props" />
+</Project>

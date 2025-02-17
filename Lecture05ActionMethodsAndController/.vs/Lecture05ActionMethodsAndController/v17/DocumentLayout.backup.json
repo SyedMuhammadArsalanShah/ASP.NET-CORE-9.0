@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NETCORE\\Lecture05ActionMethodsAndController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5260F1E2-D288-42DC-8FBD-C0F286EFE48F}|Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj|d:\\asp.netcore\\lecture05actionmethodsandcontroller\\lecture05actionmethodsandcontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5260F1E2-D288-42DC-8FBD-C0F286EFE48F}|Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj|solutionrelative:lecture05actionmethodsandcontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5260F1E2-D288-42DC-8FBD-C0F286EFE48F}|Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj|d:\\asp.netcore\\lecture05actionmethodsandcontroller\\lecture05actionmethodsandcontroller\\lecture05actionmethodsandcontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5260F1E2-D288-42DC-8FBD-C0F286EFE48F}|Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj|solutionrelative:lecture05actionmethodsandcontroller\\lecture05actionmethodsandcontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5260F1E2-D288-42DC-8FBD-C0F286EFE48F}|Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj|d:\\asp.netcore\\lecture05actionmethodsandcontroller\\lecture05actionmethodsandcontroller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5260F1E2-D288-42DC-8FBD-C0F286EFE48F}|Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj|solutionrelative:lecture05actionmethodsandcontroller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lecture05ActionMethodsAndController\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lecture05ActionMethodsAndController\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:18:26.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lecture05ActionMethodsAndController\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lecture05ActionMethodsAndController\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:17:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lecture05ActionMethodsAndController",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj",
+              "RelativeDocumentMoniker": "Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj",
+              "RelativeToolTip": "Lecture05ActionMethodsAndController\\Lecture05ActionMethodsAndController.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T19:16:53.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

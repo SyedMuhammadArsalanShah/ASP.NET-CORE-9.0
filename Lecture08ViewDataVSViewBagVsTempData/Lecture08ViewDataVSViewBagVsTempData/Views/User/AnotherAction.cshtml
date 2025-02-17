@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "AnotherAction";
+}
+
+<h1>AnotherAction</h1>
+
+@{
+    var cities = TempData["Cities"] as List<string>;
+}
+
+@if (cities != null)
+{
+    @foreach (var city in cities)
+    {
+        <p>@city</p>
+    }
+}

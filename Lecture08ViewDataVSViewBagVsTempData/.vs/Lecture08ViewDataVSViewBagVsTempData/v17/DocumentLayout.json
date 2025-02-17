@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|d:\\asp.netcore\\lecture08viewdatavsviewbagvstempdata\\lecture08viewdatavsviewbagvstempdata\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|solutionrelative:lecture08viewdatavsviewbagvstempdata\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|d:\\asp.netcore\\lecture08viewdatavsviewbagvstempdata\\lecture08viewdatavsviewbagvstempdata\\views\\user\\indexviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|solutionrelative:lecture08viewdatavsviewbagvstempdata\\views\\user\\indexviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|d:\\asp.netcore\\lecture08viewdatavsviewbagvstempdata\\lecture08viewdatavsviewbagvstempdata\\views\\user\\indexviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|solutionrelative:lecture08viewdatavsviewbagvstempdata\\views\\user\\indexviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|d:\\asp.netcore\\lecture08viewdatavsviewbagvstempdata\\lecture08viewdatavsviewbagvstempdata\\views\\user\\anotheraction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|solutionrelative:lecture08viewdatavsviewbagvstempdata\\views\\user\\anotheraction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|d:\\asp.netcore\\lecture08viewdatavsviewbagvstempdata\\lecture08viewdatavsviewbagvstempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D5C4BC-935E-4305-91C5-B325A6D083E2}|Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData.csproj|solutionrelative:lecture08viewdatavsviewbagvstempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnotherAction.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\AnotherAction.cshtml",
+              "RelativeDocumentMoniker": "Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\AnotherAction.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\AnotherAction.cshtml",
+              "RelativeToolTip": "Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\AnotherAction.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T20:38:58.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexViewBag.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\IndexViewBag.cshtml",
+              "RelativeDocumentMoniker": "Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\IndexViewBag.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\IndexViewBag.cshtml",
+              "RelativeToolTip": "Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\IndexViewBag.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T20:37:23.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexViewData.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\IndexViewData.cshtml",
+              "RelativeDocumentMoniker": "Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\IndexViewData.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\IndexViewData.cshtml",
+              "RelativeToolTip": "Lecture08ViewDataVSViewBagVsTempData\\Views\\User\\IndexViewData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T20:35:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lecture08ViewDataVSViewBagVsTempData\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lecture08ViewDataVSViewBagVsTempData\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:09:39.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lecture08ViewDataVSViewBagVsTempData\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture08ViewDataVSViewBagVsTempData\\Lecture08ViewDataVSViewBagVsTempData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lecture08ViewDataVSViewBagVsTempData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:09:16.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

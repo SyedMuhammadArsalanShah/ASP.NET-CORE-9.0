@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "IndexViewData";
+}
+
+<h1>IndexViewData</h1>
+
+@foreach (var student in ViewData["Students"] as List<string>)
+{
+    <p>@student</p>
+}
