@@ -27,16 +27,16 @@
       "RelativeMoniker": "D:0:0:{B65FB621-3304-4D3E-B41D-624D56C29235}|Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj|solutionrelative:lecture10codefirstapproach_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NETCORE\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD\\Migrations\\20250217220540_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lecture10CodeFirstApproach_CRUD\\Migrations\\20250217220540_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B65FB621-3304-4D3E-B41D-624D56C29235}|Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj|d:\\asp.netcore\\lecture10codefirstapproach_crud\\lecture10codefirstapproach_crud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B65FB621-3304-4D3E-B41D-624D56C29235}|Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj|solutionrelative:lecture10codefirstapproach_crud\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B65FB621-3304-4D3E-B41D-624D56C29235}|Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj|d:\\asp.netcore\\lecture10codefirstapproach_crud\\lecture10codefirstapproach_crud\\lecture10codefirstapproach_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B65FB621-3304-4D3E-B41D-624D56C29235}|Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj|solutionrelative:lecture10codefirstapproach_crud\\lecture10codefirstapproach_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65FB621-3304-4D3E-B41D-624D56C29235}|Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj|d:\\asp.netcore\\lecture10codefirstapproach_crud\\lecture10codefirstapproach_crud\\migrations\\20250217220540_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65FB621-3304-4D3E-B41D-624D56C29235}|Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj|solutionrelative:lecture10codefirstapproach_crud\\migrations\\20250217220540_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Lecture10CodeFirstApproach_CRUD\\Views\\Student\\Index.cshtml",
               "ToolTip": "D:\\ASP.NETCORE\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAqwDYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-17T22:07:40.595Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T22:04:09.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T22:04:09.451Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-17T21:57:57.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T21:57:57.589Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T21:40:37.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T21:40:37.065Z"
             },
             {
               "$type": "Document",
@@ -108,7 +105,7 @@
               "RelativeDocumentMoniker": "Lecture10CodeFirstApproach_CRUD\\Controllers\\StudentController.cs",
               "ToolTip": "D:\\ASP.NETCORE\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwE0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T21:42:34.964Z",
               "EditorCaption": ""
@@ -123,12 +120,11 @@
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\Models\\Student.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T21:38:06.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T21:38:06.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "20250217220540_InitialCreate.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD\\Migrations\\20250217220540_InitialCreate.cs",
               "RelativeDocumentMoniker": "Lecture10CodeFirstApproach_CRUD\\Migrations\\20250217220540_InitialCreate.cs",
@@ -136,12 +132,11 @@
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\Migrations\\20250217220540_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:05:41.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T22:05:41.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "StudentDbContext.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD\\Models\\StudentDbContext.cs",
               "RelativeDocumentMoniker": "Lecture10CodeFirstApproach_CRUD\\Models\\StudentDbContext.cs",
@@ -149,21 +144,19 @@
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\Models\\StudentDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T21:39:10.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T21:39:10.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Lecture10CodeFirstApproach_CRUD",
+              "DocumentIndex": 7,
+              "Title": "Lecture10CodeFirstApproach_CRUD.csproj",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj",
               "RelativeDocumentMoniker": "Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj",
               "ToolTip": "D:\\ASP.NETCORE\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj",
               "RelativeToolTip": "Lecture10CodeFirstApproach_CRUD\\Lecture10CodeFirstApproach_CRUD.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-17T21:39:16.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T21:39:16.795Z"
             }
           ]
         }

@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Migrations\\20250218071858_mylrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lecture11LoginRegistrationSystem\\Migrations\\20250218071858_mylrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|d:\\asp.netcore\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem\\lecture11loginregistrationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB1547D3-5942-4CA6-9990-A604FB290E51}|Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj|solutionrelative:lecture11loginregistrationsystem\\lecture11loginregistrationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Models\\Students.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Models\\Students.cs",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:08:26.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:02:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\appsettings.json",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\appsettings.json",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T07:08:46.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Program.cs",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:09:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T07:15:59.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Views\\User\\Add.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Views\\User\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T07:17:27.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T07:18:19.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250218071858_mylrs.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Migrations\\20250218071858_mylrs.cs",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Migrations\\20250218071858_mylrs.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Migrations\\20250218071858_mylrs.cs",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Migrations\\20250218071858_mylrs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:18:58.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Models\\StudentContext.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Models\\StudentContext.cs",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Models\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:02:53.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lecture11LoginRegistrationSystem",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj",
+              "RelativeDocumentMoniker": "Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj",
+              "RelativeToolTip": "Lecture11LoginRegistrationSystem\\Lecture11LoginRegistrationSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T07:02:32.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

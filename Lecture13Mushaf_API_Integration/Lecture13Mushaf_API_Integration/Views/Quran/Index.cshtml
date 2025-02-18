@@ -1,0 +1,37 @@
+﻿@model List<Surah>
+
+@{
+    ViewData["Title"] = "Quran Surah List";
+
+
+}
+
+<h2>List of Surahs</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Arabic Name</th>
+            <th>English Name</th>
+            <th>Translation</th>
+            <th>Revelation Type</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var surah in Model)
+        {
+            <tr>
+                <td>@surah.Number</td>
+                <td>@surah.Name</td>
+                <td>@surah.EnglishName</td>
+                <td>@surah.EnglishNameTranslation</td>
+                <td>@surah.RevelationType</td>
+                <td>
+                    <a class="btn btn-primary" href="@Url.Action("Read", "Quran", new { id = surah.Number })">Read</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

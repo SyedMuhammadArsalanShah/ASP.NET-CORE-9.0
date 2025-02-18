@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\views\\quran\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\views\\quran\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\views\\quran\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\views\\quran\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\controllers\\qurancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\controllers\\qurancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\services\\quranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\services\\quranservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|d:\\asp.netcore\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration\\lecture13mushaf_api_integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A47E1A5-33D8-4FF7-A49C-7386E3D13862}|Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj|solutionrelative:lecture13mushaf_api_integration\\lecture13mushaf_api_integration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T03:51:15.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Views\\Quran\\Read.cshtml",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Views\\Quran\\Read.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Views\\Quran\\Read.cshtml",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Views\\Quran\\Read.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T03:39:49.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Views\\Quran\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Views\\Quran\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Views\\Quran\\Index.cshtml",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Views\\Quran\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T03:35:26.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuranController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Controllers\\QuranController.cs",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Controllers\\QuranController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Controllers\\QuranController.cs",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Controllers\\QuranController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:32:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:32:03.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Program.cs",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:30:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuranService.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Services\\QuranService.cs",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Services\\QuranService.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Services\\QuranService.cs",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Services\\QuranService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:29:04.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lecture13Mushaf_API_Integration",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T03:27:43.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Surah.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Models\\Surah.cs",
+              "RelativeDocumentMoniker": "Lecture13Mushaf_API_Integration\\Models\\Surah.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture13Mushaf_API_Integration\\Lecture13Mushaf_API_Integration\\Models\\Surah.cs",
+              "RelativeToolTip": "Lecture13Mushaf_API_Integration\\Models\\Surah.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:27:14.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

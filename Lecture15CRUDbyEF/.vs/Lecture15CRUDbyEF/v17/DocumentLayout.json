@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|d:\\asp.netcore\\lecture15crudbyef\\lecture15crudbyef\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|solutionrelative:lecture15crudbyef\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Migrations\\20250218051308_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lecture15CRUDbyEF\\Migrations\\20250218051308_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|d:\\asp.netcore\\lecture15crudbyef\\lecture15crudbyef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|solutionrelative:lecture15crudbyef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|d:\\asp.netcore\\lecture15crudbyef\\lecture15crudbyef\\lecture15crudbyef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|solutionrelative:lecture15crudbyef\\lecture15crudbyef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|d:\\asp.netcore\\lecture15crudbyef\\lecture15crudbyef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|solutionrelative:lecture15crudbyef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|d:\\asp.netcore\\lecture15crudbyef\\lecture15crudbyef\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|solutionrelative:lecture15crudbyef\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|d:\\asp.netcore\\lecture15crudbyef\\lecture15crudbyef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A1513-F891-4EB5-A695-7BFE67EEA078}|Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj|solutionrelative:lecture15crudbyef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Lecture15CRUDbyEF\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Lecture15CRUDbyEF\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:16:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250218051308_my.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Migrations\\20250218051308_my.cs",
+              "RelativeDocumentMoniker": "Lecture15CRUDbyEF\\Migrations\\20250218051308_my.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Migrations\\20250218051308_my.cs",
+              "RelativeToolTip": "Lecture15CRUDbyEF\\Migrations\\20250218051308_my.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:13:09.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\appsettings.json",
+              "RelativeDocumentMoniker": "Lecture15CRUDbyEF\\appsettings.json",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\appsettings.json",
+              "RelativeToolTip": "Lecture15CRUDbyEF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T05:10:45.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture15CRUDbyEF\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Program.cs",
+              "RelativeToolTip": "Lecture15CRUDbyEF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:05:08.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lecture15CRUDbyEF",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj",
+              "RelativeDocumentMoniker": "Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj",
+              "RelativeToolTip": "Lecture15CRUDbyEF\\Lecture15CRUDbyEF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T05:03:07.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Lecture15CRUDbyEF\\Models\\StudentDbContext.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "Lecture15CRUDbyEF\\Models\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:02:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lecture15CRUDbyEF\\Models\\Student.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture15CRUDbyEF\\Lecture15CRUDbyEF\\Models\\Student.cs",
+              "RelativeToolTip": "Lecture15CRUDbyEF\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:02:24.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

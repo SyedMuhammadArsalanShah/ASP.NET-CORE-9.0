@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Lecture12ImageUploadingandFetching.Models.Emp>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h1 style="color:teal"> @ViewBag.emps</h1>
+
+<p>
+    <a asp-action="ImgUp">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.profile)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                    <img src="~/images/@item.profile" alt="Profile Image" class="rounded-circle"
+                         height="100" width="100"
+                         asp-append-version="true" />
+                @* @Html.DisplayFor(modelItem => item.profile) *@
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

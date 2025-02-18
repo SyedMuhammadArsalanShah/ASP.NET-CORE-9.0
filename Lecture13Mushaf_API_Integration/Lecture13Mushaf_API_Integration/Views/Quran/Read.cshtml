@@ -1,0 +1,16 @@
+﻿@model SurahDetails
+
+@{
+    ViewData["Title"] = "Read Surah - " + Model.EnglishName;
+}
+
+<h2>@Model.Name - @Model.EnglishName (@Model.EnglishNameTranslation)</h2>
+
+<ul class="list-group">
+    @foreach (var ayah in Model.Ayahs)
+    {
+        <li class="list-group-item">
+            <strong>@ayah.Number:</strong> @ayah.Text
+        </li>
+    }
+</ul>

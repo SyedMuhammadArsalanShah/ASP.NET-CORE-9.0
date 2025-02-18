@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture15CRUDbyEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1004a3c82629d701180d0fb686c848b866a9a945")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture15CRUDbyEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture15CRUDbyEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
