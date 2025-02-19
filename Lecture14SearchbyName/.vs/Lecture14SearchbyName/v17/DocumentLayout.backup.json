@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|d:\\asp.netcore\\lecture14searchbyname\\lecture14searchbyname\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|solutionrelative:lecture14searchbyname\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|d:\\asp.netcore\\lecture14searchbyname\\lecture14searchbyname\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|solutionrelative:lecture14searchbyname\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Migrations\\20250218053800_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lecture14SearchbyName\\Migrations\\20250218053800_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|d:\\asp.netcore\\lecture14searchbyname\\lecture14searchbyname\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|solutionrelative:lecture14searchbyname\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|d:\\asp.netcore\\lecture14searchbyname\\lecture14searchbyname\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|d:\\asp.netcore\\lecture14searchbyname\\lecture14searchbyname\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|solutionrelative:lecture14searchbyname\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|d:\\asp.netcore\\lecture14searchbyname\\lecture14searchbyname\\migrations\\20250218053800_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913B3D3D-9577-44D9-A44A-A436C95451BD}|Lecture14SearchbyName\\Lecture14SearchbyName.csproj|solutionrelative:lecture14searchbyname\\migrations\\20250218053800_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +42,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Lecture14SearchbyName\\Views\\Student\\Index.cshtml",
               "ToolTip": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Lecture14SearchbyName\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-18T05:44:42.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Lecture14SearchbyName\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Controllers\\StudentController.cs*",
-              "RelativeToolTip": "Lecture14SearchbyName\\Controllers\\StudentController.cs*",
+              "ToolTip": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Lecture14SearchbyName\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAnwBEAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T05:40:19.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:40:19.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "20250218053800_my.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Migrations\\20250218053800_my.cs",
               "RelativeDocumentMoniker": "Lecture14SearchbyName\\Migrations\\20250218053800_my.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "Lecture14SearchbyName\\Migrations\\20250218053800_my.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T05:38:01.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:38:01.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Program.cs",
               "RelativeDocumentMoniker": "Lecture14SearchbyName\\Program.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "Lecture14SearchbyName\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T05:30:19.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:30:19.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\appsettings.json",
               "RelativeDocumentMoniker": "Lecture14SearchbyName\\appsettings.json",
@@ -106,25 +103,23 @@
               "RelativeToolTip": "Lecture14SearchbyName\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-18T05:29:02.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:29:02.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Lecture14SearchbyName",
+              "DocumentIndex": 4,
+              "Title": "Lecture14SearchbyName.csproj",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Lecture14SearchbyName.csproj",
               "RelativeDocumentMoniker": "Lecture14SearchbyName\\Lecture14SearchbyName.csproj",
               "ToolTip": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Lecture14SearchbyName.csproj",
               "RelativeToolTip": "Lecture14SearchbyName\\Lecture14SearchbyName.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T05:27:02.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:27:02.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Lecture14SearchbyName\\Models\\Student.cs",
@@ -132,12 +127,11 @@
               "RelativeToolTip": "Lecture14SearchbyName\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T05:26:51.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:26:51.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "StudentDbContext.cs",
               "DocumentMoniker": "D:\\ASP.NETCORE\\Lecture14SearchbyName\\Lecture14SearchbyName\\Models\\StudentDbContext.cs",
               "RelativeDocumentMoniker": "Lecture14SearchbyName\\Models\\StudentDbContext.cs",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Lecture14SearchbyName\\Models\\StudentDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T05:27:13.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:27:13.817Z"
             }
           ]
         }
