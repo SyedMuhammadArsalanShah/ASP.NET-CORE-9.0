@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture16ForeignKeybyCFA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d13f27ac6a8432a85d6241c44961e8c969273ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d888f20a8cf4c1ffba77f566bc62a99fc29316a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture16ForeignKeybyCFA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture16ForeignKeybyCFA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

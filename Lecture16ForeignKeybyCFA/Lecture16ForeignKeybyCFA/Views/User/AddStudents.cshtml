@@ -1,0 +1,52 @@
+﻿@model Lecture16ForeignKeybyCFA.Models.Students
+
+@{
+    ViewData["Title"] = "AddStudents";
+}
+
+<h1>AddStudents</h1>
+
+<h4>Students</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddStudents">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="address" class="control-label"></label>
+                <input asp-for="address" class="form-control" />
+                <span asp-validation-for="address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="deptId" class="control-label"></label>
+                <select asp-for="deptId" class ="form-control" asp-items="ViewBag.deptId">
+
+
+                    <option disabled selected>select an option </option>
+
+                    @foreach (var i in ViewBag.getDepts)
+                    {
+                        <option value="@i.Id">@i.DeptName</option>
+                    }
+
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
