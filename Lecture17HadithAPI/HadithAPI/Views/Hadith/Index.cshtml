@@ -1,0 +1,17 @@
+﻿@model System.Text.Json.JsonElement?
+@{
+    ViewData["Title"] = "Hadith Books";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container mt-4">
+    <h2 class="mb-3">Hadith Books</h2>
+    <div class="list-group">
+        @foreach (var book in Model.Value.EnumerateArray())
+        {
+            <a class="list-group-item list-group-item-action" href="@Url.Action("Chapters", new { bookSlug = book.GetProperty("bookSlug").GetString() })">
+                <strong>@book.GetProperty("bookName")</strong><br />
+                <small>Chapters: @book.GetProperty("chapters_count") | Hadiths: @book.GetProperty("hadiths_count")</small>
+            </a>
+        }
+    </div>
+</div>

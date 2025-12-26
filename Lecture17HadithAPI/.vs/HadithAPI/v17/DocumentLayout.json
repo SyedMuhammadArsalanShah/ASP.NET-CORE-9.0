@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NETCORE\\HadithAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|d:\\asp.netcore\\hadithapi\\hadithapi\\controllers\\hadithservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|solutionrelative:hadithapi\\controllers\\hadithservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|d:\\asp.netcore\\hadithapi\\hadithapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|solutionrelative:hadithapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|d:\\asp.netcore\\hadithapi\\hadithapi\\views\\hadith\\hadiths.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|solutionrelative:hadithapi\\views\\hadith\\hadiths.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|d:\\asp.netcore\\hadithapi\\hadithapi\\controllers\\hadithcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|solutionrelative:hadithapi\\controllers\\hadithcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|d:\\asp.netcore\\hadithapi\\hadithapi\\views\\hadith\\chapters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|solutionrelative:hadithapi\\views\\hadith\\chapters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|d:\\asp.netcore\\hadithapi\\hadithapi\\views\\hadith\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|solutionrelative:hadithapi\\views\\hadith\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|d:\\asp.netcore\\hadithapi\\hadithapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|solutionrelative:hadithapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|d:\\asp.netcore\\hadithapi\\hadithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A20CF8B-631A-4065-9E12-8F9C795FA676}|HadithAPI\\HadithAPI.csproj|solutionrelative:hadithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HadithAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HadithAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:42:41.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chapters.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Views\\Hadith\\Chapters.cshtml",
+              "RelativeDocumentMoniker": "HadithAPI\\Views\\Hadith\\Chapters.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Views\\Hadith\\Chapters.cshtml",
+              "RelativeToolTip": "HadithAPI\\Views\\Hadith\\Chapters.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:42:14.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Views\\Hadith\\Index.cshtml",
+              "RelativeDocumentMoniker": "HadithAPI\\Views\\Hadith\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Views\\Hadith\\Index.cshtml",
+              "RelativeToolTip": "HadithAPI\\Views\\Hadith\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:39:14.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HadithService.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Controllers\\HadithService.cs",
+              "RelativeDocumentMoniker": "HadithAPI\\Controllers\\HadithService.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Controllers\\HadithService.cs",
+              "RelativeToolTip": "HadithAPI\\Controllers\\HadithService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:34:51.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hadiths.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Views\\Hadith\\Hadiths.cshtml",
+              "RelativeDocumentMoniker": "HadithAPI\\Views\\Hadith\\Hadiths.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Views\\Hadith\\Hadiths.cshtml",
+              "RelativeToolTip": "HadithAPI\\Views\\Hadith\\Hadiths.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:43:20.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HadithAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HadithAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T06:49:09.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HadithController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Controllers\\HadithController.cs",
+              "RelativeDocumentMoniker": "HadithAPI\\Controllers\\HadithController.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Controllers\\HadithController.cs",
+              "RelativeToolTip": "HadithAPI\\Controllers\\HadithController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:36:31.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HadithAPI\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCORE\\HadithAPI\\HadithAPI\\Program.cs",
+              "RelativeToolTip": "HadithAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:33:29.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

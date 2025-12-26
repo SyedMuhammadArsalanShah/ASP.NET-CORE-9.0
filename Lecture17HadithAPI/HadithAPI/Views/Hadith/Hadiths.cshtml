@@ -1,0 +1,19 @@
+﻿@model System.Text.Json.JsonElement?
+@{
+    ViewData["Title"] = "Hadiths";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container mt-4">
+    <h5 class="mb-3">احادیث</h5>
+    @foreach (var hadith in Model.Value.EnumerateArray())
+    {
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">حدیث نمبر #@hadith.GetProperty("hadithNumber")</h5>
+                <p class="card-text arabic-text">@hadith.GetProperty("hadithArabic")</p>
+                <p class="card-text urdu-text">@hadith.GetProperty("hadithUrdu")</p>
+                <p class="card-text english-text">@hadith.GetProperty("hadithEnglish")</p>
+            </div>
+        </div>
+    }
+</div>
